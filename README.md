@@ -4,8 +4,7 @@
 
 ## Description
 
-This is a business card generator app that allows users to easily create a professional business card.
-The business card generator app is ideal for entrepreneurs, freelancers, small business owners, and anyone who wants to create a professional-looking business card quickly and easily.
+Welcome to my IT web developer and IT support admin portfolio! In this portfolio, you will find examples of my work as an IT professional with a focus on web development and what I do as an IT support administrator.
 
 ## Table of Contents
 - [Business Card Generator](#business-card-generator)
@@ -27,6 +26,21 @@ The business card generator app is ideal for entrepreneurs, freelancers, small b
   cd Business-Card-Generator
   npm install
 ```
+
+## About Me
+
+My name is [Your Name], and I am an experienced IT professional with a passion for web development and support administration. I have worked in various IT roles for [Number of Years] years, gaining extensive experience in web development, IT support, networking, and security.
+
+## Skills
+
+Here are some of the key skills I possess as an IT professional:
+
+* Web development using HTML, CSS, JavaScript, PHP, and other programming languages
+* IT support administration for desktops, servers, and networks
+* Network design, implementation, and management
+* Cloud infrastructure deployment and management
+* Security analysis and vulnerability assessments
+* Technical documentation and reporting
 
 ## Screenshots
 

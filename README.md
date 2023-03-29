@@ -1,6 +1,12 @@
 # tiklens
 
-# Business Card Generator
+## References
+
+JavaScript Mastery
+https://www.youtube.com/watch?v=0fYi8SGA20k&t=5648s
+
+Deploying Vite to GitHub Pages
+https://www.youtube.com/watch?v=XhoWXhyuW_I
 
 ## Description
 

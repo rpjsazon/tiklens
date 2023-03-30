@@ -49,6 +49,11 @@ const About = () => {
         similique ea, nam id odio earum consequatur amet odit nostrum porro
         possimus ducimus aliquid pariatur quasi voluptatibus adipisci, et
         delectus neque.
+        <br />
+        <br />
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab, quos et.
+        Quia ab ratione voluptas inventore natus tempore iusto, mollitia minus
+        eum quasi doloribus placeat ut ad maiores est omnis?
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

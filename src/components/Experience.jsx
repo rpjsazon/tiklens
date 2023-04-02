@@ -11,6 +11,9 @@ import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
+import resume from '../assets/resumerpj.pdf';
+import { Link } from "react-router-dom";
+
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
     contentStyle={{ background: "#1d1836", color: "#fff" }}
@@ -56,6 +59,18 @@ const Experience = () => {
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>What I have done so far</p>
         <h2 className={styles.sectionHeadText}>Work Experience.</h2>
+
+        <Link
+          to={resume}
+          target="_blank"
+          className="bg-tertiary py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl"
+          download
+        >
+          Download Resume in PDF Format
+        </Link>
+
+        
+        
       </motion.div>
 
       <div className="mt-20 flex flex-col">

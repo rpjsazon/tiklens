@@ -70,9 +70,7 @@ const Works = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus dolores, 
-          numquam expedita quam modi quo voluptate molestias consequuntur non totam nam eum 
-          quis assumenda doloremque deleniti ex ipsum, magnam animi?
+         Here's an example of the projects I built during the bootcamp. 
         </motion.p>
       </div>
 

@@ -45,11 +45,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Highly skilled IT Support Technician with almost 7 years of experience and recently trained as frontend
-        web developer with React and JavaScript. Maintaining smooth-running software and system
-        performance through astute troubleshooting and issue resolution. Manages diverse repair and
-        maintenance tasks with precision and care to enhance IT department functionality and optimise
-        overall company productivity.
+        Highly skilled IT Support Technician with almost 7 years of experience. Maintaining smooth-running software and system
+        performance through astute troubleshooting and issue resolution. Manages diverse repair and maintenance tasks with 
+        precision and care to enhance IT department functionality and optimise overall company productivity.
         <br />
         <br />
         I recenty graduated from EdX Front-End Web Development bootcamp with the duration of 6 months. We specialized in the following skills: HTML, CSS, JavaScript, Node and React. 

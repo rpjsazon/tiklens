@@ -23,6 +23,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  facebook,
+  instagram,
+  linkedin,
+  youtube,
 } from "../assets";
 
 export const navLinks = [
@@ -135,6 +139,29 @@ const experiences = [
   },
 ];
 
+const socials = [
+  {
+    name: "LinkedIn",
+    icon: linkedin,
+    source_link: "https://www.linkedin.com/in/rjpsazon/",
+  },
+  {
+    name: "Facebook",
+    icon: facebook,
+    source_link: "https://www.facebook.com/itiksazon",
+  },
+  {
+    name: "Instagram",
+    icon: instagram,
+    source_link: "https://www.instagram.com/itiksazon/",
+  },
+  {
+    name: "Youtube",
+    icon: youtube,
+    source_link: "https://www.youtube.com/@everythingnice",
+  },
+]
+
 const testimonials = [
   {
     testimonial:
@@ -228,4 +255,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, socials, testimonials, projects };

@@ -5,9 +5,11 @@ import About from './About';
 import Tech from './Tech';
 import Experience from './Experience';
 import Works from './Works';
+import Social from './Social';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 import CanvasLoader from "./Loader";
+
 
 export {
   Hero,
@@ -16,6 +18,7 @@ export {
   Tech,
   Experience,
   Works,
+  Social,
   Feedbacks,
   Contact,
   CanvasLoader,

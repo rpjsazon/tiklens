@@ -30,6 +30,11 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import facebook from "./expicon/facebook.png";
+import linkedin from "./expicon/linkedin.png";
+import youtube from "./expicon/youtube.png";
+import instagram from "./expicon/instagram.png";
+
 export {
   logo,
   backend,
@@ -59,4 +64,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  facebook,
+  youtube,
+  instagram,
+  linkedin,
 };
